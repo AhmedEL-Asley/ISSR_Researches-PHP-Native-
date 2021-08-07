@@ -1,2 +1,2 @@
-# issr_researches-PHP-Native-
+# ISSR_Researches-PHP-Native-
 ISSR Research Management System
